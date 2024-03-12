@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  height: 100vh;
+  color: #f8fafc;
+  text-align: center;
+}
